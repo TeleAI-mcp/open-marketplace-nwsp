@@ -1,2 +1,3 @@
-# open-marketplace-nwsp
-Automated issue comment bot repository
+# Open Marketplace Nwsp
+
+Automated issue comment bot repository.
